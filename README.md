@@ -22,7 +22,7 @@ Jordanian | Male | 23
 
 | Assignment            | Link                          |
 | ------------          | -------------                 |
-| Class1-Read01         | [ Read01 ]( Read01.md )       |
-| Class2-Read02a        | [ Read02a ]( Read02a.md )     |
-| Class2-Read02b        | [ Read02b ]( Read02b.md )     |
-| Class2-Lab02a         | [ Lab02a ]( Lab02a.md )     |
+| Class1-Read01         | [ Read01 ]( Read01 )          |
+| Class2-Read02a        | [ Read02a ]( Read02a )        |
+| Class2-Read02b        | [ Read02b ]( Read02b )        |
+| Class2-Lab02a         | [ Lab02a ]( Lab02a )          |
