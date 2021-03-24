@@ -20,8 +20,9 @@ Jordanian | Male | 23
 
 # Table of content :
 
-| Assignment            | Link                          |
-| ------------          | -------------                 |
-| Class1-Read01         | [ Read01 ]( Read01 )          |
-| Class2-Read02a        | [ Read02a ]( Read02a )        |
-| Class2-Read02b        | [ Read02b ]( Read02b )        |
+| Assignment            | Link                              |
+| ------------          | -------------                     |
+| Class1-Read01         | [ Read01  ]( Read01 )             |
+| Class2-Read02a        | [ Read02a ]( Read02a )            |
+| Class2-Read02b        | [ Read02b ]( Read02b )            |
+| Class3-Read03         | [ Read03  ]( Read03 )             |
