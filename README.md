@@ -25,4 +25,3 @@ Jordanian | Male | 23
 | Class1-Read01         | [ Read01 ]( Read01 )          |
 | Class2-Read02a        | [ Read02a ]( Read02a )        |
 | Class2-Read02b        | [ Read02b ]( Read02b )        |
-| Class2-Lab02a         | [ Lab02a ]( Lab02a )          |
