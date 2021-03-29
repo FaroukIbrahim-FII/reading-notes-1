@@ -28,3 +28,4 @@ Jordanian | Male | 23
 | Class3-Read03         | [ Read03  ]( Read03 )             |
 | Class4-Read04         | [ Read04  ]( Read04 )             |
 | Class5-Read05         | [ Read05  ]( Read05 )             |
+| Class6-Read06         | [ Read06  ]( Read06 )             |
