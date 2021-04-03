@@ -31,8 +31,6 @@ Jordanian | Male | 23
 | Class6-Read06         | [ Read06  ]( Read06 )             |
 
 
-# Reading Notes
-
 # Table of content Code 201 :
 
 | Assignment            | Link                              |
