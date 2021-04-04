@@ -79,9 +79,9 @@
 * Array : it stores a list of values. var Name = new Array('....' ,'....', .... );
 
 * Operators : 
-    - arithmetic : ( +, -, *, /, % ).
-    - logical : ( And >> &&, or >> ||, not >> ! ).
-    - Comparison operator: ( == , != , === , !== , > , < , <= , >= ).
+    - arithmetic : `( +, -, *, /, % )`.
+    - logical : `( And >> &&, or >> ||, not >> ! )`.
+    - Comparison operator: `( == , != , === , !== , > , < , <= , >= )`.
 
 
 ## IF STATEMENTS :
@@ -107,3 +107,6 @@ switch(expression) {
         default code block
 }
 ```
+
+
+[ Back To README !]( https://yousefabujalboush.github.io/reading-notes/ )
