@@ -18,30 +18,30 @@
 
 ```HTML
 <!DOCTYPE html> <!-- Defines the document type HTML5 -->
-<html>
-<head>
-<meta> <!-- Meta tags provide information about the webpage in the HTML of the document -->
-<title>This is the Title of the Page</title>
-<!-- Any linking pages and things that are not shown to the user -->
-</head>
-<style> <!-- CSS code -->
-<body>
-<!-- tags for all HTML elements that appear to the user -->
-<h1> <!-- header 1 -->
-.
-.
-<h6> <!-- to header 6 -->
-<p> <!-- paragraph -->
-<ol> <!-- ordered list -->
-<ul> <!-- unordered list -->
-<img> <!-- image -->
-<a> <!-- hyperlink -->
-<!-- -->  <!-- comment -->
-<div> <!-- allows you to group a set of elements together -->
-<iframe> <!-- window you  can see another page -->
-<script> <!-- javascript code -->
-</body>
-</html> 
+    <html>
+        <head>
+            <meta> <!-- Meta tags provide information about the webpage in the HTML of the document -->
+            <title>This is the Title of the Page</title>
+            <!-- Any linking pages and things that are not shown to the user -->
+        </head>
+        <style> <!-- CSS code -->
+        <body>
+            <!-- tags for all HTML elements that appear to the user -->
+            <h1> <!-- header 1 -->
+            .
+            .
+            <h6> <!-- to header 6 -->
+            <p> <!-- paragraph -->
+            <ol> <!-- ordered list -->
+            <ul> <!-- unordered list -->
+            <img> <!-- image -->
+            <a> <!-- hyperlink -->
+            <!-- -->  <!-- comment -->
+            <div> <!-- allows you to group a set of elements together -->
+            <iframe> <!-- window you  can see another page -->
+            <script> <!-- javascript code -->
+        </body>
+    </html> 
 ```
 
 # Planning before work :
@@ -63,15 +63,17 @@
 * Methods : allows the sending objects to invoke behaviors and to delegate the implementation of those behaviors to the receiving object.
 # structure of Javascript :
 
-```Javascript
+```HTML
+
 <Script>
-var // defines variable
-if (condition){} // if statement
-prompt() // user input
-alert() // output data
-document.write() // Writing in html
-// .... // comment
+    var // defines variable
+    if (condition){} // if statement
+    prompt() // user input
+    alert() // output data
+    document.write() // Writing in html
+    // .... // comment
 </Script> 
+
 ```
 
 
