@@ -6,7 +6,6 @@
 #### target attribute as `target="_blank"` : open link in a new window .
 ##### Ex :
 ```HTML
-
 <a href="hyperlink/web pages/email addresses/locations in the same page"> . . . </a>
 <a href="https://www.google.com/">google</a> <!-- hyperlink -->
 <a href="About-me.html">About-Me</a> <!-- Same Folder -->
@@ -16,8 +15,7 @@
 <a href="../../About-me.html">About-Me</a> <!-- GrandParent Folder -->
 <a href="mailto:yousef.y.jalboush@gmail.com">yousef.y.jalboush@gmail.com</a> <!-- Email Links -->
 <a href="#mySection">Arc Shot</a> <!-- locations in the same page , The href here belongs to the tag containing this id -->
-<a href="About-me.html#mySection> Click here </a> <!-- locations in the another page -->
-
+<a href="About-me.html#mySection"> Click here </a> <!-- locations in the another page -->
 ```
 
 # CSS 
