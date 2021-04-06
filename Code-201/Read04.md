@@ -5,7 +5,7 @@
 #### `<a>` : creates a hyperlink to web pages, files, email addresses, locations in the same page, or anything else a URL can address. Content within each `<a>` should indicate the link's destination.
 #### target attribute as `target="_blank"` : open link in a new window .
 ##### Ex :
-```HTML
+~~~~
 <a href="hyperlink/web pages/email addresses/locations in the same page"> . . . </a>
 <a href="https://www.google.com/">google</a> <!-- hyperlink -->
 <a href="About-me.html">About-Me</a> <!-- Same Folder -->
@@ -16,7 +16,7 @@
 <a href="mailto:yousef.y.jalboush@gmail.com">yousef.y.jalboush@gmail.com</a> <!-- Email Links -->
 <a href="#mySection">Arc Shot</a> <!-- locations in the same page , The href here belongs to the tag containing this id -->
 <a href="About-me.html#mySection"> Click here </a> <!-- locations in the another page -->
-```
+~~~~
 
 # CSS 
 
@@ -37,7 +37,7 @@
 ### WHAT IS A FUNCTION : Functions are "self contained" modules of code that accomplish a specific task , it can be used over and over and over again. Functions can be "called" from the inside of other functions.
 
 ##### Ex :
-```JAVASCRIPT
+~~~~
 function sayHello(parameter1, parameter2, ......){
 	block of code ....
 	return val ;  // Return value
@@ -49,7 +49,7 @@ var sayHello = function(parameter1, parameter2, ......) {
 } ; 
 
 let hello = sayHello( parameter1, parameter2, ...... ); //Calling Function
-```
+~~~~
 
 
 
