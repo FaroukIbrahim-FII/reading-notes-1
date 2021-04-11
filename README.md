@@ -33,11 +33,12 @@ Jordanian | Male | 23
 
 ## Table of content Code 201 :
 
-| Assignment            | Link                                  |
-| ------------          | -------------                         |
-| Class0-Read01         | [ Read01  ]( Code-201/Read01 )        |
-| Class1-Read02         | [ Read02  ]( Code-201/Read02 )        |
-| Class2-Read03         | [ Read03  ]( Code-201/Read03 )        |
-| Class3-Read04         | [ Read04  ]( Code-201/Read04 )        |
-| Class4-Read05         | [ Read05  ]( Code-201/Read05 )        |
-| Class5-Read06         | [ Read06  ]( Code-201/Read06 )        |
+| Assignment            | Link                                                                                                      |
+| ------------          | -------------                                                                                             |
+| Class0-Read01         | [ Read: 01 - Introductory HTML and JavaScript  ]( Code-201/Read01 )                                       |
+| Class1-Read02         | [ Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions ]( Code-201/Read02 )          |
+| Class2-Read03         | [ Read: 03 - HTML Lists, CSS Boxes, JS Control Flow ]( Code-201/Read03 )                                  |
+| Class3-Read04         | [ Read: 04 - HTML Links, CSS Layout, JS Functions ]( Code-201/Read04 )                                    |
+| Class4-Read05         | [ Read: 05 - HTML Images; CSS Color & Text ]( Code-201/Read05 )                                           |
+| Class5-Read06         | [ Read: 06 - JS Object Literals; The DOM ]( Code-201/Read06 )                                             |
+| Class6-Read07         | [ Read: 07 - HTML Tables; JS Constructor Functions ]( Code-201/Read07 )                                   |
