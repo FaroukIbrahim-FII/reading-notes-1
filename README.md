@@ -42,4 +42,5 @@ Jordanian | Male | 23
 | Class4-Read05         | [ Read: 05 - HTML Images; CSS Color & Text ]( Code-201/Read05 )                                           |
 | Class5-Read06         | [ Read: 06 - JS Object Literals; The DOM ]( Code-201/Read06 )                                             |
 | Class6-Read07         | [ Read: 07 - HTML Tables; JS Constructor Functions ]( Code-201/Read07 )                                   |
-| Class7-Read08         | [ Read: 08 - More CSS Layout ]( Code-201/Read08 )                                   |
+| Class7-Read08         | [ Read: 08 - More CSS Layout ]( Code-201/Read08 )                                                         |
+| Class8-Read09         | [ Read: 09 - More CSS Layout ]( Code-201/Read09 )                                                         |
