@@ -44,3 +44,4 @@ Jordanian | Male | 23
 | Class6-Read07         | [ Read: 07 - HTML Tables; JS Constructor Functions ]( Code-201/Read07 )                                   |
 | Class7-Read08         | [ Read: 08 - More CSS Layout ]( Code-201/Read08 )                                                         |
 | Class8-Read09         | [ Read: 09 - Forms and Events ]( Code-201/Read09 )                                                        |
+| Class9-Read10         | [ Read: 10 - JS Debugging ]( Code-201/Read10 )                                                            |
