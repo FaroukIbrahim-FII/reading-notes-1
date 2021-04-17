@@ -45,3 +45,4 @@ Jordanian | Male | 23
 | Class7-Read08         | [ Read: 08 - More CSS Layout ]( Code-201/Read08 )                                                         |
 | Class8-Read09         | [ Read: 09 - Forms and Events ]( Code-201/Read09 )                                                        |
 | Class9-Read10         | [ Read: 10 - JS Debugging ]( Code-201/Read10 )                                                            |
+| Class10-Read11        | [ Read: 11 - Assorted Topics ]( Code-201/Read11 )                                                         |
