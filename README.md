@@ -46,3 +46,4 @@ Jordanian | Male | 23
 | Class8-Read09         | [ Read: 09 - Forms and Events ]( Code-201/Read09 )                                                        |
 | Class9-Read10         | [ Read: 10 - JS Debugging ]( Code-201/Read10 )                                                            |
 | Class10-Read11        | [ Read: 11 - Assorted Topics ]( Code-201/Read11 )                                                         |
+| Class10-Read12        | [ Read: 12 - Docs for the HTML canvas Element & Chart.js ]( Code-201/Read12)                            |
