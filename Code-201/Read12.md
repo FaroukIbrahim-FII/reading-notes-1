@@ -6,3 +6,5 @@
 
 
 ### Through `<canvas>` we can do many things that were previously more difficult than now, but with the HTML5 version this command has been updated to be easier. Now we are able to create shapes and curves within the page freely without the need for `<SVG>`. Characteristics such as so that we can employ many shapes and properties of the texts in order to become better and draw any shapes that come to mind, of course `<canvas>` deals with longitude and width X, Y so be careful when dealing with it and putting anything in the right place for it.
+
+[ Back To README !]( https://yousefabujalboush.github.io/reading-notes/ )
