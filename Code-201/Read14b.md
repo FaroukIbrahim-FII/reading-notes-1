@@ -1,0 +1,11 @@
+# Read: 14b - What Google Learned About Teams
+
+### One of the most important things within work, companies and team work is that the team communicates with each other correctly and understands each other faster and correctly. Studies show that most employees who have a friendship relationship are the best teams to work together, and there is a saying that says, "Teams are more effective When everyone is friends away from work".
+
+### But in fact, after many studies, there is no specific matter indicating how to properly improve the team and make it more productive, but some of the important things are: communication and opinion parents without conditions and respect for the opinion of others, communication meetings, some group activities under the shadow The company and some companies have implemented some activities such as a play site or a eating site, a site for reading and a site for taking a nap, these simple things help to prepare a happy employee at work and this increases his overall productivity. in other words, could raise a group’s collective intelligence, whereas the wrong norms could hobble a team, even if, individually, all the members were exceptionally bright. ’’ Woolley said. ‘‘But if only one person or a small group spoke all the time, the collective intelligence declined.’’.
+
+### It is good, but not at all times, to feel with your team how they feel and learn what their psychological state is from the tone of your voice or movement, and of course from reading the eye so that there is serious communication and knowing the things that are going on in the team, but not at all times passion is a matter Good in everything that goes over the limit turns into harm.
+
+### ‘‘Just having data that proves to people that these things are worth paying attention to sometimes is the most important step in getting them to actually pay attention,‘‘Don’t underestimate the power of giving people a common platform and operating language.’’
+
+[ Back To README !]( https://yousefabujalboush.github.io/reading-notes/ )
