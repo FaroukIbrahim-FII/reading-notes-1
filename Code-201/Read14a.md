@@ -35,6 +35,7 @@
 * Transition Delay : set a delay with the transition-delay property. Ex : `transition-delay: Num s OR Num ms;`.
 * Shorthand Transitions : To set numerous transitions at once. Ex : `transition: background .2s linear, border-radius 1s ease-in 1s;`.
 * Animations Keyframes : To set multiple points at which an element should undergo a transition. Ex :
+
 ```CSS
 @keyframes nameOFAnimation {
   0% {
