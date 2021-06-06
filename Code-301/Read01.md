@@ -1,35 +1,23 @@
-# React lifecycle
+# Read: Class 01
 
-## Q{1} ) Based off the diagram, what happens first, the ‘render’ or the ‘componentDidMount’?
+## there are some Characteristics for the component such as :
 
-### render
+* Replaceable:  if other components do the same task in less time and code we can replace the component
+* Not context-specific:  the component can contain more than the type of context such properties or methods or whatever the software want
+* Independent: if one component broke down does not mean the other component well broke down
 
-## Q{2} ) What is the very first thing to happen in the lifecycle of React?
+## there are some Advantages to using it :
 
-### Mounting (constructor)
+* Modification of technical complexity: the component reduce the complexity of the software because divide it into more than one component
 
-## Q{3} )Put the following things in the order that they happen
+* Reliability : the script of code or properties or function or whatever inside the method are clear and good to understand without any complexity this will make it reliable
 
-### constructor ,render ,React Updates ,componentDidMount ,componentWillUnmount
+* System maintenance and evolution: easy to change or update any component
 
-## Q{4} )What does componentDidMount do?
+* Independent : each component does not affect or impact on any other components
 
-### is a hook that gets invoked right after a React component has been mounted aka after the first render() lifecycle
+### props: is a special keyword in React, which stands for properties and is being used for passing data from one component to another.
 
-# React State Vs Props
+### we can use props in attribute with it value and passed to other component
 
-## Q{1} ) What types of things can you pass in the props?
-
-### pass variables from one to another component
-
-## Q{2} ) What is the big difference between props and state?
-
-### Basically, the difference is that state is something like attributes in OOP : it's something local to a class (component), used to better describe it. Props are like parameters - they are passed to a component from the caller of a component (the parent) : as if you called a function with certain parameters
-
-## Q{3} ) When do we re-render our application?
-
-### automatically re-render whenever there is a change in their state or props. A simple update of the state, from anywhere in the code
-
-## Q{4} ) What are some examples of things that we could store in state?
-
-### state, store, static
+### props are being passed in a uni-directional flow
