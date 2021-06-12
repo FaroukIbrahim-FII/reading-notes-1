@@ -61,6 +61,7 @@ Jordanian | Male | 23
 |Class3-Read03|[Read: Class 03](Code-301/Read03)|
 |Class4-Read04|[Read: Class 04](Code-301/Read04)|
 |Class5-Read05|[Read: Class 05](Code-301/Read05)|
+|Class6-Read06|[Read: Class 06](Code-301/Read06)|
 |Class6|[class](Code-301/)|
 |Class7|[class](Code-301/)|
 |Class8|[class](Code-301/)|
