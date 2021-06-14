@@ -1,6 +1,6 @@
 # Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions
 
-# HTML : 
+# HTML
 
 * Structural markup: the elements that you can use to  describe both headings and paragraphs
 * Semantic markup: which provides extra information; such  as where emphasis is placed in a sentence.
@@ -18,7 +18,7 @@
 * CodeView : is a way of viewing and using code. certain characteristics and properties of the text are emphasized or located for easy visibility.
 * `<strong>` : content has strong importance, browsers will show  the contents of element in bold.
 * `<em>` : emphasis that subtly changes  the meaning of a sentence, By default browsers will show  the contents of element  in italic.
-* `<blockquote>` :  indicates that the enclosed text is an extended quotation. 
+* `<blockquote>` :  indicates that the enclosed text is an extended quotation.
 * `<q>` : shorter quotes that sit within  a paragraph.
 * `<abbr>` :  the optional title attribute can provide an expansion or description for the abbreviation.
 * `<cite>` : used to describe a reference to a cited creative work, and must include the title of that work.
@@ -28,29 +28,30 @@
 * `<del>` : lement can show text  that has been deleted.
 * `<s>` : element to represent things that are no longer relevant or no longer accurate.
 
+# Css
 
-# Css : 
+### A CSS rule  contains two parts
 
-### A CSS rule  contains two parts :
 * Selectors indicate which  element the rule applies to.
-* Declarations indicate how  the elements referred to in  the selector should be styled. 
+* Declarations indicate how  the elements referred to in  the selector should be styled.
+
 ```Css
  p { >> Selector
     font-family: Arial; >> Declaration
  } 
  ```
 
-### CSS declarations sit inside curly brackets and each is made up of two parts: a property and a value .
+### CSS declarations sit inside curly brackets and each is made up of two parts: a property and a value
 
-### `<link>` : The HTML External Resource Link element specifies relationships between the current document and an external resource. This element is most commonly used to link to stylesheets.
+### `<link>` : The HTML External Resource Link element specifies relationships between the current document and an external resource. This element is most commonly used to link to stylesheets
 
 * href : This specifies the path to the  CSS file .
 * type : This attribute specifies the type  of document being linked to.
-* rel : This specifies the relationship  between the HTML page and  the file it is linked to. 
+* rel : This specifies the relationship  between the HTML page and  the file it is linked to.
 
-### `<style>` : element allows style sheets to be embedded directly within content.
+### `<style>` : element allows style sheets to be embedded directly within content
 
-### CSS Selectors :
+### CSS Selectors
 
 * Universal  >> * { ..... }
 * Type >> h1, h2, h3 { ..... }
@@ -61,10 +62,9 @@
 * Adjacent Sibling >> h1+p { ..... }
 * General Sibling >> h1~p { ..... }
 
-## An external stylesheet is a standalone . css file that is linked from a web page. The advantage of external stylesheets is that it can be created once and the rules applied to multiple web pages. 
+## An external stylesheet is a standalone . css file that is linked from a web page. The advantage of external stylesheets is that it can be created once and the rules applied to multiple web pages
 
-
-# JAVASCRIPT :
+# JAVASCRIPT
 
 * script : is a series of instructions that a computer can follow one-by-one.
 
@@ -72,20 +72,21 @@
 
 * comments : help you and others who read your code. ex( ` //SINGLE-LINE , /* MULTI-LINE */ ` ).
 
-* VARIABLE : A script will have to temporarily  store the bits of information it  needs to do its job. It can store this  data in variables. 
+* VARIABLE : A script will have to temporarily  store the bits of information it  needs to do its job. It can store this  data in variables.
 
 * DATA TYPES : NUMERIC, STRING, BOOLEAN.
 
 * Array : it stores a list of values. var Name = new Array('....' ,'....', .... );
 
-* Operators : 
-    - arithmetic : `( +, -, *, /, % )`.
-    - logical : `( And >> &&, or >> ||, not >> ! )`.
-    - Comparison operator: `( == , != , === , !== , > , < , <= , >= )`.
+* Operators :
+  * arithmetic : `( +, -, *, /, % )`.
+  * logical : `( And >> &&, or >> ||, not >> ! )`.
+  * Comparison operator: `( == , != , === , !== , > , < , <= , >= )`.
 
+## IF STATEMENTS
 
-## IF STATEMENTS :
-### The If...Then... Else statement allows conditional execution based on the evaluation of an expression. ... The thenpart is executed if condition is true; if condition is false, then elsepart is executed. If the Else clause is not present, control passes to the next statement in the program.
+### The If...Then... Else statement allows conditional execution based on the evaluation of an expression. ... The thenpart is executed if condition is true; if condition is false, then elsepart is executed. If the Else clause is not present, control passes to the next statement in the program
+
 ```JAVASCRIPT
 if ( Condition ){
     // code to execute if value is true
@@ -93,8 +94,11 @@ if ( Condition ){
     // code to execute if value is false 
 }
 ```
-## SWITCH STATEMENTS :
-### executes a block of code depending on different cases. which are used to perform different actions based on different conditions. 
+
+## SWITCH STATEMENTS
+
+### executes a block of code depending on different cases. which are used to perform different actions based on different conditions
+
 ```JAVASCRIPT
 switch(expression) {
   case n:
@@ -108,5 +112,4 @@ switch(expression) {
 }
 ```
 
-
-[ Back To README !]( https://yousefabujalboush.github.io/reading-notes/ )
+[Back To README!](https://yousefabujalboush.github.io/reading-notes/)

@@ -54,3 +54,5 @@
 ## How does the child component invoke a method that was passed to it from a parent component?
 
 * through extend then import child page to parent page to send the methods propties
+
+[Back To README!](https://yousefabujalboush.github.io/reading-notes/)

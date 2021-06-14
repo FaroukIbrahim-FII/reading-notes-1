@@ -25,3 +25,5 @@
 ## How can you identify where state needs to live?
 
 * Either the common owner or another component higher up in the hierarchy should own the state.
+
+[Back To README!](https://yousefabujalboush.github.io/reading-notes/)

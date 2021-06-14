@@ -56,14 +56,13 @@ Jordanian | Male | 23
 
 | Assignment            | Link                                  |
 | ------------          | -------------                         |
-|Class1-Read01|[Read: Class 01](Code-301/Read01)|
-|Class2-Read02|[Read: Class 02](Code-301/Read02)|
-|Class3-Read03|[Read: Class 03](Code-301/Read03)|
-|Class4-Read04|[Read: Class 04](Code-301/Read04)|
-|Class5-Read05|[Read: Class 05](Code-301/Read05)|
-|Class6-Read06|[Read: Class 06](Code-301/Read06)|
-|Class6|[class](Code-301/)|
-|Class7|[class](Code-301/)|
+|Class1-Read01|[Readings: Introduction to React and Components](Code-301/Read01)|
+|Class2-Read02|[Readings: State and Props](Code-301/Read02)|
+|Class3-Read03|[Readings: Passing Functions as Props](Code-301/Read03)|
+|Class4-Read04|[Readings: React and Forms](Code-301/Read04)|
+|Class5-Read05|[Readings: Putting it all together](Code-301/Read05)|
+|Class6-Read06|[Readings: NODE.JS](Code-301/Read06)|
+|Class7-Read07|[Readings: REST](Code-301/Read07)|
 |Class8|[class](Code-301/)|
 |Class9|[class](Code-301/)|
 |Class10|[class](Code-301/)|

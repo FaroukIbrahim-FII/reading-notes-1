@@ -21,3 +21,5 @@
 ## Rewrite the following statement using a ternary statement
 
 * x === y ? console.log(true) : console.log(false);
+
+[Back To README!](https://yousefabujalboush.github.io/reading-notes/)
