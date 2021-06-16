@@ -64,7 +64,7 @@ Jordanian | Male | 23
 |Class6-Read06|[Readings: NODE.JS](Code-301/Read06)|
 |Class7-Read07|[Readings: REST](Code-301/Read07)|
 |Class8-Read08|[Readings: APIs](Code-301/Read08)|
-|Class9|[class](Code-301/)|
+|Class9-Read09|[Readings: FUNCTIONAL PROGRAMMING](Code-301/Read09)|
 |Class10|[class](Code-301/)|
 |Class11|[class](Code-301/)|
 |Class12|[class](Code-301/)|
