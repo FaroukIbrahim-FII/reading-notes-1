@@ -66,7 +66,7 @@ Jordanian | Male | 23
 |Class8-Read08|[Readings: APIs](Code-301/Read08)|
 |Class9-Read09|[Readings: FUNCTIONAL PROGRAMMING](Code-301/Read09)|
 |Class10-Read010|[Readings: In memory storage](Code-301/Read010)|
-|Class11|[class](Code-301/)|
+|Class11-Read011|[Readings: Authentication](Code-301/Read011)|
 |Class12|[class](Code-301/)|
 |Class13|[class](Code-301/)|
 |Class14|[class](Code-301/)|
