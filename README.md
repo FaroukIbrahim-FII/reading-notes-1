@@ -67,7 +67,7 @@ Jordanian | Male | 23
 |Class9-Read09|[Readings: FUNCTIONAL PROGRAMMING](Code-301/Read09)|
 |Class10-Read010|[Readings: In memory storage](Code-301/Read010)|
 |Class11-Read011|[Readings: Authentication](Code-301/Read011)|
-|Class12|[class](Code-301/)|
+|Class12-Read012|[Readings: Mongo and Mongoose](Code-301/Read012)|
 |Class13|[class](Code-301/)|
 |Class14|[class](Code-301/)|
 |Class15|[class](Code-301/)|
