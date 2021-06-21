@@ -32,7 +32,7 @@
 
 * 403 Forbidden - The client has authorized or doesn’t need to authorize itself, but still has no permissions to access the resource
 
-# 
+# ....
 
 ### Why do we need to pull our MongoDB database string out of our server and put it into our .env?
 
