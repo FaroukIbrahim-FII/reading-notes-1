@@ -69,5 +69,5 @@ Jordanian | Male | 23
 |Class11-Read011|[Readings: Authentication](Code-301/Read011)|
 |Class12-Read012|[Readings: Mongo and Mongoose](Code-301/Read012)|
 |Class13-Read013|[Readings: CRUD](Code-301/Read013)|
-|Class14|[class](Code-301/)|
+|Class14-Read014|[Readings: Diversity & Inclusion in the Tech Industry](Code-301/Read014)|
 |Class15|[class](Code-301/)|
