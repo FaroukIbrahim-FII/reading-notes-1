@@ -70,4 +70,15 @@ Jordanian | Male | 23
 |Class12-Read012|[Readings: Mongo and Mongoose](Code-301/Read012)|
 |Class13-Read013|[Readings: CRUD](Code-301/Read013)|
 |Class14-Read014|[Readings: Diversity & Inclusion in the Tech Industry](Code-301/Read014)|
-|Class15|[class](Code-301/)|
+
+## Code 401 - Advanced Software Development
+
+| Assignment            | Link                                  |
+| ------------          | -------------                         |
+|Class1-Read01|[class](Code-401/Read01)|
+|Class2-Read02|[class](Code-401/)|
+|Class3-Read03|[class](Code-401/)|
+|Class4-Read04|[class](Code-401/)|
+|Class5-Read05|[class](Code-401/)|
+|Class6-Read06|[class](Code-401/)|
+|Class7-Read07|[class](Code-401/)|
