@@ -75,7 +75,7 @@ Jordanian | Male | 23
 
 | Assignment            | Link                                  |
 | ------------          | -------------                         |
-|Class1-Read01|[class](Code-401/Read01)|
+|Class1-Read01|[Read: Class 01](Code-401/Read01)|
 |Class2-Read02|[class](Code-401/)|
 |Class3-Read03|[class](Code-401/)|
 |Class4-Read04|[class](Code-401/)|
