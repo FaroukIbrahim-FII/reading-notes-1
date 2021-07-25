@@ -20,7 +20,7 @@ Jordanian | Male | 23
 
 # Reading Notes
 
-## Here I am writing down what I read in a simple summary so that I can benefit from it later, It is divided into tables for each level you have learned
+### Here I am writing down what I read in a simple summary so that I can benefit from it later, It is divided into tables for each level you have learned
 
 ## Code 102 - Intro to Software Development
 
