@@ -1,4 +1,4 @@
-# Introduce Myself
+<!-- # Introduce Myself
 
 ### My name is **Yousef Abu Jalboush**
 
@@ -14,11 +14,13 @@ Jordanian | Male | 23
 
 #### My phone number : 00962790944123
 
-#### My Link in GitHub : [Here](https://github.com/YousefAbuJalboush)
+#### My Link in GitHub : [Here](https://github.com/YousefAbuJalboush) -->
 
 <!-- ![My img](https://user-images.githubusercontent.com/81154478/112147232-20438680-8be5-11eb-818d-7f2c4437b04e.jpg) -->
 
 # Reading Notes
+
+## Here I am writing down what I read in a simple summary so that I can benefit from it later, It is divided into tables for each level you have learned
 
 ## Code 102 - Intro to Software Development
 
