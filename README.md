@@ -79,7 +79,7 @@ Jordanian | Male | 23
 | ------------          | -------------                         |
 |Class1-Read01|[Readings: Topic](Code-401/Read01)|
 |Class2-Read02|[Readings: Testing and Modules](Code-401/Read02)|
-|Class3-Read03|[class](Code-401/)|
+|Class3-Read03|[Readings FileIO & Exceptions](Code-401/Read03)|
 |Class4-Read04|[class](Code-401/)|
 |Class5-Read05|[class](Code-401/)|
 |Class6-Read06|[class](Code-401/)|
