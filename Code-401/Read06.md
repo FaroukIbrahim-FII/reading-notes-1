@@ -10,15 +10,15 @@
 
 * Randint : If we wanted a random integer, we can use it and it accepts two parameters
 
-``` Ex :
+``` Python
 import random
 print random.randint(0, 5)
 ```
 
 * Random :
 
-``` Ex :
-If you want a larger number, you can multiply it.
+``` Python
+# If you want a larger number, you can multiply it.
 Ex :
 import random
 random.random() * 100
@@ -26,7 +26,7 @@ random.random() * 100
 
 - Choice : Generate a random value from the sequence , or random value from a list
 
-``` Ex :
+``` Python
 import random
 myList = [2, 109, False, 10, "Lorem", 482, "Ipsum"]
 random.choice(myList)
@@ -34,7 +34,7 @@ random.choice(myList)
 
 * Shuffle : shuffles the elements in list in place, so they are in a random order.
 
-``` Ex :
+``` Python
 from random import shuffle
 x = [[i] for i in range(10)]
 shuffle(x)
@@ -42,7 +42,7 @@ shuffle(x)
 
 * Randrange : Generate a randomly selected element from range(start, stop, step)
 
-``` Ex :
+``` Python
 import random
 for i in range(3):
 ` print random.randrange(0, 101, 5)`
