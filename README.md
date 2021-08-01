@@ -83,4 +83,4 @@ Jordanian | Male | 23
 |Class4-Read04|[Classes and Objects in Python:](Code-401/Read04)|
 |Class5-Read05|[Implementation: Linked Lists](Code-401/Read05)|
 |Class6-Read06|[Readings: Game of Greed 1](Code-401/Read06)|
-|Class7-Read07|[class](Code-401/)|
+|Class7-Read07|[Readings: Game of Greed 2 : Python Scope & the LEGB Rule](Code-401/Read07)|
