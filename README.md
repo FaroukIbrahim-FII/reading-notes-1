@@ -87,3 +87,4 @@ Jordanian | Male | 23
 |Class8-Read08|[Readings: Game of Greed 3 : list Comprehensions](Code-401/Read08)|
 |Class9-Read09|[Readings: Game of Greed 4 : Dunder Methods](Code-401/Read09)|
 |Class10-Read010|[Implementation: Stacks and Queues](Code-401/Read10)|
+|Class11-Read011|[Readings: Data Analysis](Code-401/Read11)|
