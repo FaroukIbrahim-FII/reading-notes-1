@@ -90,3 +90,4 @@ Jordanian | Male | 23
 |Class11-Read011|[Readings: Data Analysis](Code-401/Read11)|
 |Class12-Read012|[Read: Class 12](Code-401/Read12)|
 |Class13-Read013|[Readings: Linear Regressions](Code-401/Read13)|
+|Class14-Read014|[Readings: Data Visualization](Code-401/Read14)|
