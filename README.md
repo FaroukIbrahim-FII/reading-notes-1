@@ -93,3 +93,4 @@ Jordanian | Male | 23
 |Class14-Read014|[Readings: Data Visualization](Code-401/Read14)|
 |Class15-Read015|[Readings: Implementation: Trees](Code-401/Read15)|
 |Class16-Read016|[Readings: Machine Learning Intro](Code-401/Read16)|
+|Class17-Read017|[Readings: Web Scraping](Code-401/Read17)|
