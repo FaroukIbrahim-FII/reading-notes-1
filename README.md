@@ -95,3 +95,4 @@ Jordanian | Male | 23
 |Class16-Read016|[Readings: Machine Learning Intro](Code-401/Read16)|
 |Class17-Read017|[Readings: Web Scraping](Code-401/Read17)|
 |Class18-Read018|[Readings: Cryptography](Code-401/Read18)|
+|Class19-Read019|[Readings: Automation](Code-401/Read19)|
