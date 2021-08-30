@@ -97,3 +97,4 @@ Jordanian | Male | 23
 |Class18-Read018|[Readings: Cryptography](Code-401/Read18)|
 |Class19-Read019|[Readings: Automation](Code-401/Read19)|
 |Class26-Read026|[Readings: Intro to Django](Code-401/Read26)|
+|Class27-Read027|[Readings: Django Models](Code-401/Read27)|
