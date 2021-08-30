@@ -98,3 +98,4 @@ Jordanian | Male | 23
 |Class19-Read019|[Readings: Automation](Code-401/Read19)|
 |Class26-Read026|[Readings: Intro to Django](Code-401/Read26)|
 |Class27-Read027|[Readings: Django Models](Code-401/Read27)|
+|Class28-Read028|[Readings: Django CRUD and Forms](Code-401/Read28)|
