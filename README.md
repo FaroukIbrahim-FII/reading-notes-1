@@ -100,3 +100,4 @@ Jordanian | Male | 23
 |Class27-Read027|[Readings: Django Models](Code-401/Read27)|
 |Class28-Read028|[Readings: Django CRUD and Forms](Code-401/Read28)|
 |Class29-Read029|[Readings: Django Custom User](Code-401/Read29)|
+|Class30-Read030|[Readings: Hash Tables](Code-401/Read30)|
